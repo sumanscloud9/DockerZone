@@ -1,2 +1,2 @@
 # DockerZone
-This Project contains the samples for Docker
+This Project contains samples for Docker by Suman.

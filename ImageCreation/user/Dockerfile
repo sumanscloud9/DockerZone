@@ -1,6 +1,6 @@
 # This file contains the basic code for creation of user in container
 FROM centos:latest
-MAINTAINER shaik.khaja.ibrahim@live.in
+MAINTAINER sumanscloud9@gmail.com
 
 RUN useradd -ms /bin/bash qt
 USER qt
